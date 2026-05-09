@@ -1,4 +1,4 @@
-A live vote tracker for EarthMC
+A live vote tracker for EarthMC coded with the help of ChatGPT (yes it's AI generated code).
 
 The_Swan_Gamer
 
