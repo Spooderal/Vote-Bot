@@ -12,7 +12,7 @@ Dynamap
 
 Rules
 
-Documentation
+Server Documentation
 
 See if somebody's online
 
